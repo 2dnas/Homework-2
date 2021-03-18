@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Homework 2</string>
+    <string name="name">Name</string>
+    <string name="select_date">Select Date</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="pick_date">Select</string>
+    <string name="blood_group">Blood Group</string>
+    <string name="enter_blood_group">Enter Blood Group</string>
+    <string name="address">Address</string>
+    <string name="enter_your_address">Enter Your Address</string>
+    <string name="select_your_qualification">Select Your Qualification</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="terms_and_agreements">Terms and Agreements</string>
+    <string name="submit">Submit</string>
+    <string name="name_sandro">Name : Sandro</string>
+    <string name="version_1_0">Version : 1.0</string>
+    <string name="if_you_want_to_get_back_on_form_press_c">If you want to get back on form press C</string>
+    <string name="location">Location</string>
+    <string name="press_here_to_detect_your_location">Press Here To Detect Your Location</string>
+    <string name="get_location">Get Location</string>
+</resources>
